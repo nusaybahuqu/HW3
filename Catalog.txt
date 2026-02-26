@@ -1,0 +1,8 @@
+Clean Code:Robert C. Martin:9780132350884:7
+Cracking the Coding Interview:Gayle Laakmann McDowell:9780984782857:10
+Design Patterns:Erich Gamma:9780201633610:3
+Domain-Driven Design:Eric Evans:9780321125217:3
+Head First Design Patterns:Eric Freeman:9780596007126:2
+Introduction to Algorithms:Thomas H. Cormen:9780262033848:8
+Java Concurrency in Practice:Brian Goetz:9780321349606:4
+The Pragmatic Programmer:Andrew Hunt:9780135957059:6
